@@ -1,3 +1,12 @@
+---
+title: Hackernews clone ft. FastHTML
+emoji: ⚡
+colorFrom: purple
+colorTo: green
+sdk: docker
+pinned: false
+---
+
 # Hackernews clone ft. FastHTML (read-only)
 
 This is a lightweight, read-only clone of Hacker News built with FastHTML. It provides a simple interface to browse Hacker News stories and comments.
